@@ -1,0 +1,1 @@
+{"container": "55c66cfe1828","name": "cadvisor","containerId": "55c66cfe1828","networkIO": "1.36MB / 65.1MB","blockIO": "395MB / 819kB","threads": "15", "memory": { "raw": "43.77MiB / 7.698GiB", "percent": "0.56%"}, "cpu": "4.55%"},
